@@ -1,4 +1,4 @@
-## Programm entery point
+## Programm entry point
 
 import sys
 
